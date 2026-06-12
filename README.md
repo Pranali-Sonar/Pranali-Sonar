@@ -1,135 +1,193 @@
-<h1 align="center">Hi 👋, I'm Pranali Sonar</h1>
-<h3 align="center">Aspiring Cybersecurity Professional | Networking Enthusiast | Ethical Hacking Learner</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Learner;CCNA+Certified;Network+Engineering+Enthusiast;Ethical+Hacking+Student;Future+Security+Analyst&center=true&width=500&height=45">
-</p>
+# PRANALI SONAR
 
----
+### Cybersecurity Enthusiast • Network Engineer • Ethical Hacking Learner • AWS Explorer
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Building+Secure+Networks+%F0%9F%94%90;Learning+Cybersecurity+%26+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F;CCNA+Networking+Professional+%F0%9F%8C%90;Future+Cybersecurity+Analyst+%F0%9F%9A%80" />
 
-🎓 B.Sc. Physics Graduate
-
-🌐 CCNA Trained & Networking Enthusiast
-
-🔐 Currently Learning Ethical Hacking & Cybersecurity
-
-💻 Interested in Network Security, Cloud Computing, and System Administration
-
-📚 Continuous Learner with a Passion for Technology
-
-🎯 Career Goal: Build expertise in Cybersecurity while preparing for UPSC
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ About Me
 
-### 🌐 Networking
-- IP Addressing & Subnetting
-- VLANs & Inter-VLAN Routing
-- Static & Dynamic Routing
-- OSPF, RIP, EIGRP
-- DHCP Configuration
-- Switching Concepts
-- Network Troubleshooting
-- Client-Server Connectivity
-- Remote Desktop Configuration
-
-### 💻 Operating Systems
-- Windows Administration
-- Windows Server Fundamentals
-- Linux (Ubuntu/Debian)
-- Kali Linux
-- Command Line Operations
-
-### 🔒 Cybersecurity
-- Network Security Fundamentals
-- Ethical Hacking Concepts
-- Vulnerability Assessment
-- CIA Triad
-- Security Best Practices
-- Threat Analysis
-
-### ☁️ Cloud & Tools
-- AWS Fundamentals
-- VMware Workstation
-- Cisco Packet Tracer
-- Wireshark
-- Nmap
-- Git & GitHub
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Client-Server Connectivity Project
-- Configured communication between client and server systems.
-- Implemented IP addressing and network connectivity.
-- Tested communication using networking tools.
-- Built using VMware virtual environments.
-
-### 🔹 RIP Routing Configuration
-- Configured Routing Information Protocol (RIP).
-- Established communication between multiple networks.
-- Verified route propagation and connectivity.
-
-### 🔹 Network Infrastructure Labs
-- VLAN Configuration
-- DHCP Server Setup
-- Inter-VLAN Routing
-- Remote Desktop Configuration
-- File Sharing Services
-
----
-
-## 📖 Currently Learning
-
-```text
-✔ CCNA
-✔ Networking Fundamentals
-✔ Linux Administration
-🔄 Ethical Hacking
-🔄 Cybersecurity
-🔄 AWS Cloud Computing
-🔄 Network Security
-````
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-
----
-
-## 🏆 Goals for 2026
-
-* Complete Ethical Hacking Certification
-* Build Networking & Security Lab Projects
-* Learn Advanced Linux Administration
-* Gain Hands-on Experience with AWS
-* Contribute to Open Source Projects
-* Build a Strong Cybersecurity Portfolio
-
----
-
-## 🌐 Connect With Me
-
-💼 LinkedIn: [www.linkedin.com/in/pranali-kiran-sonar](http://www.linkedin.com/in/pranali-kiran-sonar)
-
-📧 Email: [sonarpranali30@gmail.com](mailto:sonarpranali30@gmail.com)
-
-📍 Nashik, Maharashtra, India
-
----
-
-<p align="center">
-  <b>“Securing Networks, Learning Continuously, Growing Every Day.”</b>
-</p>
+```yaml
+Name: Pranali Sonar
+Location: Nashik, Maharashtra, India
+Degree: B.Sc. Physics
+Focus Areas:
+  - Cybersecurity
+  - Ethical Hacking
+  - Network Engineering
+  - Cloud Computing
+Current Learning:
+  - Ethical Hacking
+  - AWS Cloud
+  - Linux Administration
+  - Network Security
+Career Goal:
+  - Security Analyst
+  - Network Security Engineer
+  - Cloud Security Professional
 ```
 
-This style looks similar to the profiles of cybersecurity and cloud engineers and is much more professional than a basic student README.
+---
+
+# 🔥 Professional Profile
+
+I am a technology enthusiast with a strong foundation in Networking, System Administration, and Cybersecurity.
+
+My academic background in Physics has strengthened my analytical thinking, troubleshooting abilities, and logical problem-solving skills which directly support modern IT infrastructure and security operations.
+
+Currently focused on:
+
+✔ Network Administration
+
+✔ Cybersecurity Fundamentals
+
+✔ Ethical Hacking
+
+✔ Cloud Technologies
+
+✔ Linux Systems
+
+✔ Security Operations
+
+---
+
+# 🛡 Cybersecurity Roadmap
+
+```text
+Networking            ██████████████░░ 90%
+
+Windows Administration ████████████░░░ 80%
+
+Linux Fundamentals     ██████████░░░░░ 70%
+
+Ethical Hacking        ███████░░░░░░░░ 50%
+
+Cloud Computing        ██████░░░░░░░░░ 40%
+
+Digital Forensics      ███░░░░░░░░░░░░ 20%
+```
+
+---
+
+# ⚙️ Tech Stack
+
+### Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-005073?style=for-the-badge&logo=cisco)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge)
+
+### Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+### Cybersecurity
+
+![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+## 🔹 Client-Server Connectivity Lab
+
+```bash
+✓ IP Configuration
+✓ Network Verification
+✓ Connectivity Testing
+✓ VMware Environment
+✓ Client Server Communication
+```
+
+## 🔹 RIP Routing Implementation
+
+```bash
+✓ Router Configuration
+✓ Route Advertisement
+✓ Network Reachability Testing
+✓ Dynamic Routing
+```
+
+## 🔹 VLAN & Inter-VLAN Routing
+
+```bash
+✓ VLAN Segmentation
+✓ Switch Configuration
+✓ Router-on-a-Stick
+✓ Traffic Isolation
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🏆 2026 Objectives
+
+- [ ] Complete Ethical Hacking Certification
+- [ ] Master Linux Administration
+- [ ] Build Security Home Lab
+- [ ] Learn AWS Security Services
+- [ ] Create 20+ Networking Projects
+- [ ] Build Cybersecurity Portfolio
+- [ ] Contribute to Open Source
+
+---
+
+# 📚 Current Learning
+
+```python
+while True:
+    learn()
+    practice()
+    build_projects()
+    improve_skills()
+```
+
+---
+
+# 🌐 Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/pranali-kiran-sonar
+
+Email:
+sonarpranali30@gmail.com
+
+---
+
+<div align="center">
+
+### "Every packet tells a story. Every log leaves a clue."
+
+🛡 Future Cybersecurity Professional
+
+</div>
