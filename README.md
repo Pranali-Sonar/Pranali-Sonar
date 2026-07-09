@@ -21,23 +21,27 @@
 
 ```bash
 ┌──(pranali㉿security-lab)-[~]
-└─$ cat profile.json
+└─$ cat profile.js
 ```
 
 ```json
 {
-  "name": "Pranali Sonar",
+  "name": "Pranali Kiran Sonar",
   "location": "Nashik, Maharashtra, India 🇮🇳",
   "degree": "B.Sc. Physics — Savitribai Phule Pune University",
   "languages_spoken": ["English", "Hindi", "Marathi"],
-  "currently_pursuing": [
-    "Ethical Hacking & Cybersecurity Certification",
-    "CCNA",
-    "CompTIA A+ / Network+"
-  ],
+  "Skills":
+   [
+    "Windows server"
+    "Active directory"
+    "Networking"
+    "Linux"
+    "Splunk"
+    "Virtualization"
+    ]
   "interests": ["Network Security", "Ethical Hacking", "Cloud Security", "Digital Forensics"],
   "career_goals": ["Security Analyst", "Network Security Engineer", "Cloud Security Professional"],
-  "motto": "Every packet tells a story. Every log leaves a clue."
+  "motto": "Learning by building, Securing by Understanding."
 }
 ```
 
@@ -100,39 +104,25 @@ Digital Forensics       ████░░░░░░░░░░░░░░�
 
 ## 🎯 Featured Projects
 
-<table align="center">
-<tr>
-<td width="33%" valign="top">
+### 🔹 Windows Client–Server Connectivity Lab
+End-to-End client-server communication configured and verified in a virtualize envirnoment.
+**Skills** --> Windows Server, VMware, IP configuration, Connectivity testing 
 
-### 🔹 Client–Server Connectivity Lab
-
-End-to-end client-server communication configured and verified in a virtualized network environment.
-
-`IP Config` `VMware` `Connectivity Testing`
-
-</td>
-<td width="33%" valign="top">
 
 ### 🔹 RIP Routing Implementation
-
 Dynamic routing configured between routers using RIP, with full network reachability verification.
+**Skills** --> Cisco packet Tracer, Routing, Networking
 
-`Router Config` `Dynamic Routing` `Route Advertisement`
-
-</td>
-<td width="33%" valign="top">
+### 🛡️ Windows Security Hardening Lab (Coming Soon)
+User & Group Policy configuration
+Windows Firewall
+Security Policies
+Event Logs
 
 ### 🔹 VLAN & Inter-VLAN Routing
 
 VLAN segmentation with router-on-a-stick configuration for traffic isolation between networks.
-
-`VLAN Segmentation` `Switch Config` `Traffic Isolation`
-
-</td>
-</tr>
-</table>
-
----
+**Skills** --> Routing, VMware, Cisco Packet Tracer, Switching.
 
 ## 📜 Certifications & Learning Path
 
@@ -190,7 +180,7 @@ VLAN segmentation with router-on-a-stick configuration for traffic isolation bet
 
 <div align="center">
 
-### *"Every packet tells a story. Every log leaves a clue."*
+### *"Learning by building, Securing by Understanding."*
 
 **🛡️ Future Cybersecurity Professional**
 
