@@ -124,19 +124,6 @@ Event Logs
 VLAN segmentation with router-on-a-stick configuration for traffic isolation between networks.
 **Skills** --> Routing, VMware, Cisco Packet Tracer, Switching.
 
-## 📜 Certifications & Learning Path
-
-<div align="center">
-
-![CCNA](https://img.shields.io/badge/CCNA-In_Progress-00FF9D?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0D1117)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-In_Progress-00D9FF?style=for-the-badge&labelColor=0D1117)
-![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-Target-FFA500?style=for-the-badge&labelColor=0D1117)
-![Network+](https://img.shields.io/badge/CompTIA_Network%2B-Target-FFA500?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -151,20 +138,6 @@ VLAN segmentation with router-on-a-stick configuration for traffic isolation bet
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF9D&line=00D9FF&point=FFFFFF"/>
 
 </div>
-
----
-
-## 🏆 2026 Objectives
-
-- [ ] Complete Ethical Hacking & Cybersecurity Certification
-- [ ] Earn CCNA Certification
-- [ ] Earn CompTIA A+ and Network+ Certifications
-- [ ] Master Linux Administration
-- [ ] Build a personal Security Home Lab (Kali + Wireshark + vulnerable VMs)
-- [ ] Explore AWS Security Services (IAM, GuardDuty, Security Hub)
-- [ ] Build 20+ networking & security projects
-- [ ] Contribute to open-source security tooling
-
 ---
 
 ## 📫 Let's Connect
