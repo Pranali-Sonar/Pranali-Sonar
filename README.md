@@ -26,7 +26,7 @@
 
 ```json
 {
-  "name": "Pranali Kiran Sonar",
+  "name": "Pranali Sonar",
   "location": "Nashik, Maharashtra, India 🇮🇳",
   "degree": "B.Sc. Physics — Savitribai Phule Pune University",
   "languages_spoken": ["English", "Hindi", "Marathi"],
@@ -35,8 +35,10 @@
     "Windows server"
     "Active directory"
     "Networking"
-    "Linux"
+    "Redhat Linux"
+    "Kali Linx"
     "Splunk"
+    "MCSA"
     "Virtualization"
     ]
   "interests": ["Network Security", "Ethical Hacking", "Cloud Security", "Digital Forensics"],
